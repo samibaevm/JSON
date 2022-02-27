@@ -1,6 +1,6 @@
-{"first_name" = "Manu",
- "last_name" = "S",
- "age" = 26,
- "pets" = 0,
- "money" = "800$"
+{"first_name" : "Manu",
+ "last_name" : "S",
+ "age" : 26,
+ "pets" : 0,
+ "money" : "800$"
 }
