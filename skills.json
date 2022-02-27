@@ -1,0 +1,13 @@
+{
+ "hard_skills": {
+		 "bash" : true,
+		 "git" : true,
+		 "postman" : false,
+		 "jmentr" : false
+		},
+ "soft_skills" :{
+		 "conversation" : true,
+		 "adaptive" : true,
+		 "calm" : true
+		}
+}
